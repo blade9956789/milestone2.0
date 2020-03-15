@@ -1,0 +1,100 @@
+body
+{
+background-color:grey;
+}
+
+
+#wrapper
+{
+
+background-color: white;
+
+width: 1000px;
+
+border:1px solid black;
+
+margin:1px auto;
+
+padding:10px;
+}
+
+
+#header
+{
+
+height:200px;
+
+border:1px solid black;
+
+background-image:url("kennesawlogo.jpg");
+
+background-size: cover; 
+}
+
+
+#nav
+
+{
+
+height:60px;
+
+border:1px solid black;
+
+margin:10px 0px;
+
+background-image: url("bluefelt.png");
+
+}
+
+#nav ul{}
+
+#nav ul li{
+
+list-style-type: none;
+
+display:inline;
+
+margin-left:150px;
+
+}
+
+#nav ul li a{
+
+text-decoration: none;
+
+background-color:red;
+
+color:black;
+
+padding:10px 20px;
+
+font-size: 20px;
+
+border-radius: 10px 10px;
+
+text-shadow: 2px 2px 2px gray;
+
+}
+
+#nav ul li a:hover
+{
+
+background-color:blue;
+
+text-decoration: underline;
+
+}
+
+#body
+
+{
+
+border:1px solid black;
+
+padding:10px;
+
+margin-bottom:10px;
+
+}
+
+
